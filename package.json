@@ -1,0 +1,26 @@
+{
+  "name": "car-alarm-test",
+  "version": "0.0.1",
+  "description": "Application demonstrating TDD approach. Emulates car alarm system.",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strelga/car-alarm-test.git"
+  },
+  "keywords": [
+    "TDD",
+    "testing"
+  ],
+  "author": "Grigory Streltsov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strelga/car-alarm-test/issues"
+  },
+  "homepage": "https://github.com/strelga/car-alarm-test",
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "sinon": "~1.9.1"
+  }
+}
